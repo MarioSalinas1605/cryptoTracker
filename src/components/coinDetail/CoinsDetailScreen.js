@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Image, Text, SectionList, FlatList, StyleSheet } from 'react-native';
 import Http from '../../libs/http';
 import Colors from '../../resources/colors'
-import CoinMarketItem from './coinMarketItem'
+import CoinMarketItem from './CoinMarketItem'
 
 class CoinDetailScreen extends Component {
 
